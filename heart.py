@@ -16,3 +16,6 @@ t.circle(-90, 200)
 t.forward(180)
 t.end_fill()
 
+# Ocultar Turtle y finalizar
+t.hideturtle()
+turtle.done()
